@@ -1,4 +1,5 @@
-// Print numbers from 1 to 10
+// Issues during help session
+// Print numbers from 0 to 9
 #include <stdio.h>
 
 int main() {

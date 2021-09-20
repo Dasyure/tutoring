@@ -12,5 +12,11 @@ def rainfall(integers):
             count += 1
     if (count > 0):
         return total/count
+
+def rainfall_alternate(integers):
+    ''' List-comprehension solution '''
+    positive = [i for i in integers if i > 0]
+    if (len(positive) > 0):
+        return sum(positive)/len(positive)
     else:
         return None

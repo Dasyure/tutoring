@@ -3,11 +3,13 @@
 #include <stdio.h>
 
 int main() {
+    // FOR LOOP:
     int i;
     for (i = 0; i < 10; i++) {
         printf("%d ", i);
     }
 
+    // WHILE LOOP:
     // int i = 0;
     // while (i < 10) {
     //     printf("%d ", i);

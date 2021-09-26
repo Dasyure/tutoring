@@ -26,9 +26,10 @@ def set_name(firstName, middleName, lastName):
         len(middleName) > len(lastName))):
         flag = False
 
-    print(flag)
+    # print(flag)
+    return flag
 
-if __name__ == '__main__':
-    set_name("name-", None, "name")
-    set_name("asl", None, "name")
-    set_name("asl-", None, "name")
+# if __name__ == '__main__':
+#     set_name("name-", None, "name")
+#     set_name("asl", None, "name")
+#     set_name("asl-", None, "name")

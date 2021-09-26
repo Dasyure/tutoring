@@ -29,4 +29,6 @@ def set_name(firstName, middleName, lastName):
     print(flag)
 
 if __name__ == '__main__':
-    set_name("name", None, "name")
+    set_name("name-", None, "name")
+    set_name("asl", None, "name")
+    set_name("asl-", None, "name")

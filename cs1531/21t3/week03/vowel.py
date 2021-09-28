@@ -1,3 +1,5 @@
+# https://www.w3schools.com/python/ref_dictionary_get.asp
+
 def find_vowels(message):
     # vowels = {'a':0, 'e':0, 'i':0, ...}
     vowels = {}

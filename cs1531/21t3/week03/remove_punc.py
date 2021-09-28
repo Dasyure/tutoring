@@ -1,3 +1,7 @@
+# https://www.geeksforgeeks.org/string-punctuation-in-python/
+# https://www.w3schools.com/python/ref_string_split.asp
+# https://www.w3schools.com/python/ref_string_strip.asp
+
 import string
 
 with open("tolstoy.txt") as INFILE:

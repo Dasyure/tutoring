@@ -1,0 +1,103 @@
+ALPACA
+
+ALPACA:
+
+1
+As an existing user, I want to LOGIN, to use Streams.
+   - Need an account (need an email/password).
+
+As a new user, I want to REGISTER a new account, with which to use Streams.
+   - Need email/password/names to register.
+   - Placceholder text "enter email"
+   - Button
+
+As a logged-in existing user, I want to LOGOUT so no one else can use
+   my account after.
+    - button
+
+If as a registered user, I forgot my password, I want to be able to
+RESET my password.
+    - button
+    - link
+    - confirm email
+
+2. As a logged-in user, I want to see a LIST of CHANNELS so I can
+   potentially join them.
+    - can see private channels, but can't join them
+    - on the left panel, list of names of channels
+
+BEAGLE
+The valid user --> create a channel --> start off the platform for a virtual community
+- Create a channel icon
+- Channel details: name
+The valid user --> join a channel --> they can feel a part of theat virtual community
+- Join channel icon
+- Text box to enter channel id
+The valid user --> invite someone else to a channel --> have someone familiar/friend
+- Invite friend icon
+- Input box or drop down list of/for users
+The valid user --> leave a channel --> leave a social environment 
+- Leave channel icon on the specific channel
+- Option to report
+
+
+The valid user --> view all messages --> don't miss out on any news or
+important information
+-  View all message icon
+- Pop up box shows all messages and all users interactions
+The valid user --> view the members of the channel --> know who is in the virtual community
+- View all members icon
+- Scroll bar to scroll through members names
+The valid user --> details of the channel --> to provide an overview of the channel and what is in it
+- View details of channel icon
+- Pop up for channels details: channel id, channel name, all owners, all members --> have the ability to scroll through
+[CAMEL] - Chantelle Sun to Everyone (12:03 pm)
+
+CAMEL
+As a user I want the ability to send a message now or later
+	- Have a button that allows you to specify the time it will be sent
+As a user I want to edit and share between channels, remove, pin, unpin,
+react or unreact
+ - Have a button for the reactions, pin, share and
+ edit that allows you to do it
+
+
+
+
+DODO
+Prompt 1: Ability to view anyone's user profile, and modify a
+user's own profile (name, email, handle, and profile photo).
+---
+Story 1.1: As a user I want to view anyone's user profile so that I
+can see the other users of Streams.
+Story 1.2: As a user I want to modify my profile (name, email, handle,
+and profile photo) so that I can customise it and keep it up to date.
+---
+Acceptance Criteria 1.1: Being able to view any user’s profile.
+Acceptance Criteria 1.2: Being able to modify own name, email, handle,
+and profile photo, on the user’s profile page.
+
+Prompt 2: Ability to search for messages based on a search string.
+---
+Story 2.1: As a user I want to find messages I have previously sent
+so that I can edit, remove, view, or send it again.
+---
+Acceptance Criteria 2.1: Being able to search for any message in a
+channel or DM I am a member of if it exists, with a search bar that
+when used outputs a list of results on a screen.
+
+
+EAGLE
+As an owner, I want to modify a member's admin permissions so that
+other members have the ability to act as admins for a channel.
+- admin button placed in top bar
+- option to make user a member or owner of channel
+- dropdown menu to select user whos admin permissions are being changed
+- can only make members of the channel an owner
+
+As a user, I want to send a message directly to another user or group
+of users via direct messaging (DM) to communciate with othe rmembers
+- sbility to select DM chat from a panel on the left side
+- show history of recent chat messages
+- placeholder text to write message and flashing cursor
+- button to send message

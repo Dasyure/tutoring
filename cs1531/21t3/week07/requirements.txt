@@ -1,0 +1,20 @@
+ALPACA
+    Lots of mayo
+    (Not too much to make burger wet.
+    How much mayo? Greater than 5g, less than 10g.)
+
+BEAGLE
+    Burger has to be placed in a brown paper bag
+
+CAMEL
+    Contains lots of pickles (at least 4 slices)
+
+DODO
+    The burger should be warm but not too hot
+    (65 degrees patty)
+
+EAGLE
+    Made fresh within last minutes
+
+    Make sure mayo doesn't make bun wet
+    

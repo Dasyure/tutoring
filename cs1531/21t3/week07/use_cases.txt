@@ -1,0 +1,25 @@
+Use Case: Become part of a channel
+Goal in context: N/A
+Scope: UNSW Streams
+Level: Primary Task
+Preconditions: The user has registered an account and is logged in
+Success End Condition: The user can join and send a message to a channel
+Failed End Condition: The user cannot join and send a message to a channel
+Primary Actor: User
+Trigger: User selects option to join a channel, OR user is invited to a channel
+
+
+Success Scenario 1
+1. User selects option to join a public channel
+2. UNSW Streams displays all messages sent in the channel
+3. UNSW Streams lists user as a member of the channel
+4. User sends a message to the channel
+5. UNSW Streams displays the sent message
+
+
+Success Scenario 1
+1. User is invited by another user to join a public/private channel
+2. UNSW Streams displays all messages sent in the channel
+3. UNSW Streams lists user as a member of the channel
+4. User sends a message to the channel
+5. UNSW Streams displays the sent message
